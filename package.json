@@ -1,0 +1,1 @@
+{"name":"numiz-budget-buddy","version":"1.0.0","private":true,"type":"module","scripts":{"check":"node --check dist/app.js && node --check dist/finance.js && node --check dist/sw.js && node --test --test-isolation=none tests/*.test.js"}}
